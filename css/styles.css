@@ -20,6 +20,19 @@ body .borde1 {
   border: 2px solid black;
 }
 
+h6 {
+  font-size: 1rem;
+  text-align: center;
+  margin: 20px 0;
+  line-height: 1.5;
+}
+
+@media only screen and (max-width: 767px) {
+  h6 {
+    font-size: 0.8rem;
+  }
+}
+
 contenedor_carrusel {
   display: flex;
   flex-direction: column;
