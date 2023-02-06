@@ -6,6 +6,10 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+body p {
+  text-align: center;
+}
+
 contenedor_carrusel {
   display: flex;
   flex-direction: column;
