@@ -47,3 +47,8 @@
     cursor: pointer;
   }
   
+  .login {
+    padding: 5px 10px 5px;
+    background-color:#00aeac ;
+    border-radius: 8px;
+  }
