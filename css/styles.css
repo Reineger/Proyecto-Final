@@ -8,6 +8,14 @@ body {
 
 body p {
   text-align: center;
+  text-justify: distribute;
+}
+
+body .borde1 {
+  width: 300px;
+  margin-bottom: 30px;
+  border: 2px solid black;
+  text-justify: distribute;
 }
 
 contenedor_carrusel {
